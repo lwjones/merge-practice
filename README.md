@@ -1,7 +1,7 @@
-# This is my practice readme 🐤
+# This is my practice readme 🐤🐋
 
-## This is a sub header 🐸
+## Something about this H2 is odd to me 🎄
 
 ### Here is my content 🐒
 
-Something something text. Something something words. Something.
+#### Something something text. Something something words. Something.
