@@ -1,7 +1,7 @@
 # This is my practice readme 🐤
 
-## This is a sub header 🐸
+## Oh no I'm conflicted 🦛
 
-### Here is my content 🐒
+### Here is something about some content 🐒
 
 Something something text. Something something words. Something.
